@@ -44,7 +44,7 @@ It’s open-source, transparent, and community-aligned.
 
 ## Installation
 
-```bash
+
 git clone https://github.com/Paulos-ui/OpenClaw-Investor-Instance-Conviction-Engine.git
 cd OpenClaw-Investor-Instance-Conviction-Engine
 # Follow setup instructions for your environment
@@ -99,4 +99,5 @@ MIT License – see `LICENSE` for details.
 - GitHub Repository: [https://github.com/Paulos-ui/OpenClaw-Investor-Instance-Conviction-Engine](https://github.com/Paulos-ui/OpenClaw-Investor-Instance-Conviction-Engine)  
 - GitHub Profile: [https://github.com/Paulos-ui](https://github.com/Paulos-ui)  
 - X (Twitter): [@__official__1](https://x.com/__official__1)  
+
 - Telegram: [@masterjaypaul](https://t.me/masterjaypaul)
